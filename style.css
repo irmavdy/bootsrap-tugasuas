@@ -1,0 +1,53 @@
+.banner {
+    background: url('latar3.jpeg')
+      no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+  }
+  
+  .lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 100px;
+    margin: auto;
+    height: 100px;
+    color: rgb(0, 0, 0);
+    background-color:#FFFF00 ;
+  }
+  
+  .lingkaran i {
+    position: relative;
+    top: 20px;
+  }
+  
+  .pemeran img {
+    width: 230px;
+    border: 5px solid rgb(238, 226, 54);
+  }
+  
+  a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+  }
+
+  .ga {
+    background: url("latar5.jpeg") no-repeat
+      center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #fff;
+  }
+  
+  footer {
+    padding:10px 0;
+    color: black;
+    text-align: left;
+} 
